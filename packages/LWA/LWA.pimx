@@ -1,0 +1,117 @@
+<package_installation_info>
+  <name>LWA</name>
+<packageid>5879BC10-DC54-445D-AC8C-364E573E0F48</packageid> 
+ <version>1.0.172.0</version>
+  <target_location>/LWA/</target_location>
+<assets_size>6655951</assets_size>
+  <package_upgrade_info>
+<old_packageid>03DABCD3-FFF3-486c-A3D8-EE665F8B0316</old_packageid>
+<old_packageid>2E7A045D-8E49-4C5A-9855-907DAF9B94BF</old_packageid>
+<old_packageid>08389612-CBB6-418C-A8F4-6048500CFDD6</old_packageid>
+<old_packageid>4CAE6CA6-6CFE-4AE3-A35D-91744BF3D257</old_packageid>
+<old_packageid>0F2FFE65-5519-49C3-99AF-5BE20445A0B7</old_packageid>
+<old_packageid>91C6E316-55A8-4F2C-8850-D093ACD474E8</old_packageid>
+<old_packageid>405FB3E6-7C45-4F84-9E51-57AD89F3F844</old_packageid>
+<old_packageid>D6BB1026-8E1F-4057-9094-F9E161D4B4A3</old_packageid>
+<old_packageid>BCBF652D-29F2-4E7A-BEB8-85DE179C8B97</old_packageid>
+<old_packageid>8B5AFA00-71CE-4F45-B76B-519E6858A013</old_packageid>
+<old_packageid>193C57E8-C9B7-484E-9E16-977E00BBEE98</old_packageid>
+<old_packageid>EE202499-070A-435A-98D3-D40709029B6D</old_packageid>
+<old_packageid>0676FEF9-C626-4DE1-8C6D-5CF14845D083</old_packageid>
+<old_packageid>55E92BE3-BE0F-45E6-A9C0-29CD71DD4D73</old_packageid>
+<old_packageid>98EFE23F-E58A-45A9-9037-3050899BBBAC</old_packageid>
+<old_packageid>2988972C-4E53-4CD4-A5A2-C506BA7315EA</old_packageid>
+<old_packageid>7BF43E07-B2C0-4E91-84DC-9C0E3A9FC43B</old_packageid>
+<old_packageid>1FD043B6-5F9C-4DA5-B128-0C64A6C78F96</old_packageid>
+<old_packageid>7E161A81-F59D-4F23-A480-2B8FAB215B29</old_packageid>
+<old_packageid>B6E9F95D-5893-40C9-9C28-E68005E90DD5</old_packageid>
+<old_packageid>A9EA8AF4-2DE2-4131-8CC5-6E80D820A7A5</old_packageid>
+<old_packageid>3A963160-A77D-41B7-B929-22C98BAD5ADB</old_packageid>
+<old_packageid>F6B3C0A9-4BE7-4973-A416-0C9B4660B550</old_packageid>
+<old_packageid>063277BC-7788-4D81-AEA1-95FEEDAC1F7B</old_packageid>
+<old_packageid>254E7257-5304-45C8-9294-2C48B2474078</old_packageid>
+<old_packageid>A91B273D-C2AA-44B9-8FEF-8A7A80C4D7BF</old_packageid>
+<old_packageid>4FDE9127-345B-4934-AC12-317FAC48599B</old_packageid>
+<old_packageid>760E33D0-F8B3-4DDE-8734-7FF3AA819AF4</old_packageid>
+<old_packageid>C32825E1-618E-4767-A8CA-294A74B35801</old_packageid>
+<old_packageid>C95E5B31-72A1-44B0-92E5-1F014F078945</old_packageid>
+<old_packageid>EDF80A7C-4802-4807-BF01-BFB5E783FB58</old_packageid>
+<old_packageid>712B4539-440F-4A80-A1C4-05F548D93954</old_packageid>
+<old_packageid>FF3C6849-26EB-44B8-BECF-E3E08B391C7D</old_packageid>
+<old_packageid>4096DDBB-9D61-4B7F-AB93-A3772453F72E</old_packageid>
+<old_packageid>FD56CEC1-7C7C-4760-B4A9-817A0B904AE0</old_packageid>
+<old_packageid>28BD0036-F6D8-4C63-B063-FBAF85EF10AB</old_packageid>
+<old_packageid>5884978B-FD28-4CDB-A3CA-C3F3A228A8A8</old_packageid>
+<old_packageid>F59E40AE-3DA6-4E75-959C-A382BC8ED68C</old_packageid>
+<old_packageid>C5DA58E8-CAC3-4DC3-A07F-B4E1F841E3B9</old_packageid>
+<old_packageid>B3684A72-6B37-4C2E-A093-DC4F231196C9</old_packageid>
+<old_packageid>0490B89E-371A-477A-8299-DB5F80446138</old_packageid>
+<old_packageid>BEFE7342-B5C7-428D-9D15-FAE1E3C55BE9</old_packageid>
+<old_packageid>99AED289-CD8B-4F18-AD0C-F5AFF6EDE22F</old_packageid>
+<old_packageid>B15D5B01-98C8-41F9-8617-0F8298F04690</old_packageid>
+<old_packageid>67B7C916-64DB-4FB5-8571-2BE5A7931E9B</old_packageid>
+<old_packageid>CB7FBA4F-2BF6-4F1A-BA45-3027AADC7AB4</old_packageid>
+<old_packageid>E0893267-507B-4E14-8095-37D32A7D3434</old_packageid>
+<old_packageid>BAE3BDCD-E71F-4612-897A-53DD694EBAB2</old_packageid>
+<old_packageid>1DA85F53-E39D-4B8D-A6AC-EA408804C1B8</old_packageid>
+<old_packageid>B714A958-A5FA-4338-BDBA-4F67CB0F9D20</old_packageid>
+<old_packageid>3ABD5EA4-482E-446D-9A40-9BD3B897F59D</old_packageid>
+<old_packageid>5424729C-D38F-4F74-AF8C-E08C3AED14BD</old_packageid>
+<old_packageid>942B5AE3-14EF-403A-9DEF-ED05B46CC036</old_packageid>
+<old_packageid>CEF0D40E-1641-4648-9676-7C1B7602052F</old_packageid>
+<old_packageid>28ECB732-8860-4C17-BF43-31289B9DB40F</old_packageid>
+<old_packageid>B86F7172-5CD4-4D1C-9CA3-87C55DA97D61</old_packageid>
+<old_packageid>FD188BF5-581C-4DA9-956A-2403927FD174</old_packageid>
+<old_packageid>04281317-F6D6-4404-9B04-5E9CD0D0D2F2</old_packageid>
+<old_packageid>13896FF2-B1F4-4259-8558-CD41B96DD879</old_packageid>
+<old_packageid>B9BDBE6C-7B70-480B-9F61-C57CD9BD3332</old_packageid>
+<old_packageid>C3AEC63B-EA24-4145-92E6-29C76D057F91</old_packageid>
+<old_packageid>1F67D1C9-36DF-4D2F-AD04-F9F801CCE5AE</old_packageid>
+<old_packageid>5C47B92E-6AD7-4ED2-8B7C-9E988498B5B6</old_packageid>
+<old_packageid>6098DDC2-D1CF-4616-A73B-842D22AB74ED</old_packageid>
+<old_packageid>F03921A8-CD5C-4935-B741-593FCACD0675</old_packageid>
+<old_packageid>1858D0BA-D488-43F8-A7DB-CBA2262AC031</old_packageid>
+<old_packageid>357F2E92-E031-4BE1-ABF1-DDB6DA837CCD</old_packageid>
+<old_packageid>5811A49C-FBA3-4104-86AF-5EB853BA1F5D</old_packageid>
+<old_packageid>D6AF8CE5-0398-41B0-BEE3-DBF058871866</old_packageid>
+<old_packageid>7525A012-E696-4A17-9A6B-14C77054CED0</old_packageid>
+<old_packageid>13A78202-6101-4353-BF0A-108EE63353AA</old_packageid>
+<old_packageid>5DC30A2C-570F-4E4D-A041-EBD2787E2ED2</old_packageid>
+<old_packageid>7A243BBC-5B30-4BBE-9697-175DF417E2E0</old_packageid>
+<old_packageid>9CB60C99-8A84-4F65-9214-F8E80636D430</old_packageid>
+<old_packageid>ED46DF22-AD6F-460A-A7C6-A9B81B0D3C1D</old_packageid>
+<old_packageid>4468AC72-B704-469A-9D4F-071CD347B5C0</old_packageid>
+<old_packageid>5D31B6E4-DF56-4D77-930F-1CD5F5F7EA45</old_packageid>
+<old_packageid>0BE524ED-0D9E-4150-8135-83117E2B946B</old_packageid>
+<old_packageid>9C1A0D21-156A-4D83-9E56-EF15AA2D27A5</old_packageid>
+<old_packageid>1FE74A3E-7BCA-417D-AA45-1D7F20524634</old_packageid>
+<old_packageid>3805F711-BE5E-46F6-88FA-E5ED9A0151E0</old_packageid>
+<old_packageid>A41E9835-636A-4992-ABA8-F7EB8D96A35D</old_packageid>
+<old_packageid>BB249C40-E6E1-49B5-B9A2-2F1E7772051A</old_packageid>
+<old_packageid>68238A0D-7312-4D55-BF23-D72CC66C85C1</old_packageid>
+<old_packageid>35FB3804-254E-4936-BDD6-A4B4AEAF238E</old_packageid>
+<old_packageid>2FDF84D6-2BBC-495A-A813-F9E6F21A406D</old_packageid>
+<old_packageid>9D85EC2C-DDFE-4D33-A75D-88B02653C9E4</old_packageid>
+<old_packageid>C0037AD7-B2A5-4A0E-B24D-442345DD62F8</old_packageid>
+<old_packageid>6A941E00-8403-4F6E-A0F0-C42F159A9DE1</old_packageid>
+<old_packageid>82E43CE3-E88F-4A1A-9378-398418C7244C</old_packageid>
+<old_packageid>A677C82F-9256-4155-9C7F-24233EB96B8D</old_packageid>
+  </package_upgrade_info>
+  <applet_registration_info>
+    <applet_registration_element>
+        <name>LWA</name>
+        <type>UI</type>
+        <version>1.0</version>
+        <module_path>/LWA/PWAFlex.swf</module_path>
+        <display_name>LWA Applet UI Element</display_name>
+    </applet_registration_element>
+    <applet_registration_element>
+        <name>LWA</name>
+        <type>Native</type>
+        <version>1.0</version>
+        <module_path>/LWA/PWANative.dll</module_path>
+        <display_name>LWA Applet Native Element</display_name>
+    </applet_registration_element>
+  </applet_registration_info>
+
+</package_installation_info> 

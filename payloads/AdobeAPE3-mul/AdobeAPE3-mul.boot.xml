@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PayloadInfo version="3.0.116.0" md5="8ea01f63a5bc2a1b9936098a04ae5d93"><BuildInfo>
+    <Property name="Created">2010-02-25 15:27:07.300000</Property>
+    <Property name="TargetName">AdobeAPE3-mul</Property>
+    <Property name="ProcessorFamily">All</Property>
+  </BuildInfo><InstallerProperties>
+    <Property name="payloadType">SQLite</Property>
+    <Property name="AdobeCode">{2F6B67F4-A2BB-45D7-A80C-25FF646CC1C5}</Property>
+    <Property name="ProductName">Adobe Player for Embedding</Property>
+    <Property name="ProductVersion">3.1</Property>
+  </InstallerProperties><Languages languageIndependent="1"/><Satisfies>
+    <ProductInfo>
+		<Family>CoreTech</Family>
+		<ProductName>Adobe Player for Embedding</ProductName>
+	<ProductVersion>3.1</ProductVersion>
+    </ProductInfo>
+  </Satisfies><AddRemoveInfo>
+    <DisplayVersion>
+      <Value lang="sq_AL">3.1</Value>
+      <Value lang="ar_AE">3.1</Value>
+      <Value lang="be_BY">3.1</Value>
+      <Value lang="bg_BG">3.1</Value>
+      <Value lang="ca_ES">3.1</Value>
+      <Value lang="zh_CN">3.1</Value>
+      <Value lang="zh_TW">3.1</Value>
+      <Value lang="hr_HR">3.1</Value>
+      <Value lang="cs_CZ">3.1</Value>
+      <Value lang="da_DK">3.1</Value>
+      <Value lang="nl_NL">3.1</Value>
+      <Value lang="en_XC">3.1</Value>
+      <Value lang="en_XM">3.1</Value>
+      <Value lang="en_GB">3.1</Value>
+      <Value lang="en_US">3.1</Value>
+      <Value lang="et_EE">3.1</Value>
+      <Value lang="fi_FI">3.1</Value>
+      <Value lang="fr_FR">3.1</Value>
+      <Value lang="fr_XM">3.1</Value>
+      <Value lang="de_DE">3.1</Value>
+      <Value lang="el_GR">3.1</Value>
+      <Value lang="he_IL">3.1</Value>
+      <Value lang="hu_HU">3.1</Value>
+      <Value lang="hi_IN">3.1</Value>
+      <Value lang="is_IS">3.1</Value>
+      <Value lang="it_IT">3.1</Value>
+      <Value lang="ja_JP">3.1</Value>
+      <Value lang="ko_KR">3.1</Value>
+      <Value lang="lv_LV">3.1</Value>
+      <Value lang="lt_LT">3.1</Value>
+      <Value lang="mk_MK">3.1</Value>
+      <Value lang="nn_NO">3.1</Value>
+      <Value lang="no_NO">3.1</Value>
+      <Value lang="nb_NO">3.1</Value>
+      <Value lang="pl_PL">3.1</Value>
+      <Value lang="pt_BR">3.1</Value>
+      <Value lang="ro_RO">3.1</Value>
+      <Value lang="ru_RU">3.1</Value>
+      <Value lang="sh_YU">3.1</Value>
+      <Value lang="sk_SK">3.1</Value>
+      <Value lang="sl_SI">3.1</Value>
+      <Value lang="es_QM">3.1</Value>
+      <Value lang="es_ES">3.1</Value>
+      <Value lang="sv_SE">3.1</Value>
+      <Value lang="th_TH">3.1</Value>
+      <Value lang="tr_TR">3.1</Value>
+      <Value lang="uk_UA">3.1</Value>
+      <Value lang="vi_VN">3.1</Value>
+      <Value lang="fr_CA">3.1</Value>
+      <Value lang="es_MX">3.1</Value>
+    </DisplayVersion>
+    <DisplayName>
+      <Value lang="sq_AL">Adobe Player for Embedding</Value>
+      <Value lang="ar_AE">Adobe Player for Embedding</Value>
+      <Value lang="be_BY">Adobe Player for Embedding</Value>
+      <Value lang="bg_BG">Adobe Player for Embedding</Value>
+      <Value lang="ca_ES">Adobe Player for Embedding</Value>
+      <Value lang="zh_CN">Adobe Player for Embedding</Value>
+      <Value lang="zh_TW">Adobe Player for Embedding</Value>
+      <Value lang="hr_HR">Adobe Player for Embedding</Value>
+      <Value lang="cs_CZ">Adobe Player for Embedding</Value>
+      <Value lang="da_DK">Adobe Player for Embedding</Value>
+      <Value lang="nl_NL">Adobe Player for Embedding</Value>
+      <Value lang="en_XC">Adobe Player for Embedding</Value>
+      <Value lang="en_XM">Adobe Player for Embedding</Value>
+      <Value lang="en_GB">Adobe Player for Embedding</Value>
+      <Value lang="en_US">Adobe Player for Embedding</Value>
+      <Value lang="et_EE">Adobe Player for Embedding</Value>
+      <Value lang="fi_FI">Adobe Player for Embedding</Value>
+      <Value lang="fr_FR">Adobe Player for Embedding</Value>
+      <Value lang="fr_XM">Adobe Player for Embedding</Value>
+      <Value lang="de_DE">Adobe Player for Embedding</Value>
+      <Value lang="el_GR">Adobe Player for Embedding</Value>
+      <Value lang="he_IL">Adobe Player for Embedding</Value>
+      <Value lang="hu_HU">Adobe Player for Embedding</Value>
+      <Value lang="hi_IN">Adobe Player for Embedding</Value>
+      <Value lang="is_IS">Adobe Player for Embedding</Value>
+      <Value lang="it_IT">Adobe Player for Embedding</Value>
+      <Value lang="ja_JP">Adobe Player for Embedding</Value>
+      <Value lang="ko_KR">Adobe Player for Embedding</Value>
+      <Value lang="lv_LV">Adobe Player for Embedding</Value>
+      <Value lang="lt_LT">Adobe Player for Embedding</Value>
+      <Value lang="mk_MK">Adobe Player for Embedding</Value>
+      <Value lang="nn_NO">Adobe Player for Embedding</Value>
+      <Value lang="no_NO">Adobe Player for Embedding</Value>
+      <Value lang="nb_NO">Adobe Player for Embedding</Value>
+      <Value lang="pl_PL">Adobe Player for Embedding</Value>
+      <Value lang="pt_BR">Adobe Player for Embedding</Value>
+      <Value lang="ro_RO">Adobe Player for Embedding</Value>
+      <Value lang="ru_RU">Adobe Player for Embedding</Value>
+      <Value lang="sh_YU">Adobe Player for Embedding</Value>
+      <Value lang="sk_SK">Adobe Player for Embedding</Value>
+      <Value lang="sl_SI">Adobe Player for Embedding</Value>
+      <Value lang="es_QM">Adobe Player for Embedding</Value>
+      <Value lang="es_ES">Adobe Player for Embedding</Value>
+      <Value lang="sv_SE">Adobe Player for Embedding</Value>
+      <Value lang="th_TH">Adobe Player for Embedding</Value>
+      <Value lang="tr_TR">Adobe Player for Embedding</Value>
+      <Value lang="uk_UA">Adobe Player for Embedding</Value>
+      <Value lang="vi_VN">Adobe Player for Embedding</Value>
+      <Value lang="fr_CA">Adobe Player for Embedding</Value>
+      <Value lang="es_MX">Adobe Player for Embedding</Value>
+    </DisplayName>
+  </AddRemoveInfo></PayloadInfo>
